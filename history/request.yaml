@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_full_instrument
-last_request: '2021-10-05T22:06:43.963011Z'
+last_request: '2021-12-04T01:00:30.046602Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_full_instrument/main/history/response.json
-status: success
+status: pending
